@@ -6,7 +6,7 @@ import wikipedia
 import webbrowser
 
 
-admin='Rudratej'
+admin='Karan'
 
 
 listener = sr.Recognizer()
